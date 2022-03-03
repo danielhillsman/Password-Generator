@@ -49,3 +49,4 @@ How about any special characters?
 
 Once the last question is answered, the password will generate randomly on all characters.
 The only variable that is not randomly generated is the ammount of characters the user chooses.
+![Screenshot 2022-03-03 013303](https://user-images.githubusercontent.com/99533951/156541994-65a5a724-717b-418a-a24f-31d144ce84d4.png)
